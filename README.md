@@ -398,7 +398,7 @@ app.py
 | **Visualization** | Plotly (bar + radar charts) |
 | **PDF Generation** | ReportLab |
 | **Notebook Training** | Kaggle (GPU P100 / T4) |
-| **Dataset** | Kaggle — `dhruvdevaliya/eye-diseases` |
+| **Dataset** | Kaggle — `subhupanda/eye-diseases` |
 | **Data Manipulation** | NumPy, Pandas |
 | **Metrics** | Scikit-learn (F1, accuracy, classification report, confusion matrix) |
 | **Image Processing** | Pillow (PIL) |
@@ -418,7 +418,7 @@ TensorFlow 2.x
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Bit-Bard/Eye-Disease-Classification.git
+git clone https://github.com/SubhuPanda21/Eye-Disease-Classification.git
 cd Eye-Disease-Classification
 
 # 2. Install dependencies
@@ -572,7 +572,7 @@ main/submission/Methodology.pdf
 
 If OcuScan AI helped you or you find the project interesting, please consider starring the repository on GitHub — it helps others discover the project!
 
-[![Star on GitHub](https://img.shields.io/github/stars/Bit-Bard/Eye-Disease-Classification?style=social)](https://github.com/Bit-Bard/Eye-Disease-Classification)
+[![Star on GitHub](https://img.shields.io/github/stars/SubhuPanda21/Eye-Disease-Classification?style=social)](https://github.com/SubhuPanda21/Eye-Disease-Classification)
 
 ---
 
